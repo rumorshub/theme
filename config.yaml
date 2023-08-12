@@ -1,0 +1,13 @@
+theme:
+  debug: false
+  delims:
+    left: "{{"
+    right: "}}"
+  global:
+#    - template1_loaded_globally
+#    - template2_loaded_globally
+  loaders:
+    - dir: web/templates
+      paths:
+        base: # order is important
+          - base
