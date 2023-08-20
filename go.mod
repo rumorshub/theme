@@ -4,8 +4,8 @@ go 1.21.0
 
 require (
 	github.com/Masterminds/sprig/v3 v3.2.3
-	github.com/gowool/extends-template v0.0.0-20230706081455-8097da176f28
-	github.com/roadrunner-server/endure/v2 v2.4.1
+	github.com/gowool/extends-template v0.0.0-20230820140807-a11c311f3e04
+	github.com/roadrunner-server/endure/v2 v2.4.2
 	github.com/roadrunner-server/errors v1.3.0
 )
 
@@ -20,5 +20,5 @@ require (
 	github.com/shopspring/decimal v1.3.1 // indirect
 	github.com/spf13/cast v1.5.1 // indirect
 	golang.org/x/crypto v0.12.0 // indirect
-	golang.org/x/exp v0.0.0-20230811145659-89c5cff77bcb // indirect
+	golang.org/x/exp v0.0.0-20230817173708-d852ddb80c63 // indirect
 )
